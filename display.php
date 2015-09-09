@@ -38,5 +38,5 @@ description : VSCO CAM is a photography social network. It is great but does not
 
 
 <div id="credits">
-	<span class="whiteText"><?php echo $title; ?></span> - Fork <i>C'MON VSCO</i> on <a href="">Github</a>
+	<span class="whiteText"><?php echo $title; ?></span> - Fork <i>C'MON VSCO</i> on <a href="https://github.com/jonathanlurie/cmonvsco">Github</a>
 </div>

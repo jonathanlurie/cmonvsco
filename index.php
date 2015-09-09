@@ -52,7 +52,7 @@ description : VSCO CAM is a photography social network. It is great but does not
     </div>
 
     <div id="credits">
-      Photo by <a href="http://jonathanlurie.fr" >Jonathan Lurie</a> - Fork <i>C'MON VSCO</i> on <a href="">Github</a>
+      Photo by <a href="http://jonathanlurie.fr" >Jonathan Lurie</a> - Fork <i>C'MON VSCO</i> on <a href="https://github.com/jonathanlurie/cmonvsco">Github</a>
     </div>
 
   </body>
